@@ -2,7 +2,7 @@
 记录每天学习到的内容
 
 2022/03/07：
-添加了对gpio_direction_output的学习过程
+添加了对gpio_direction_output的学习过程。
 包含了如何根据头文件的引用和ctags去追代码，以及根据.config文件区分代码被编译的模块。
 
 2022/02/25:
